@@ -1,0 +1,2 @@
+Expand-Archive -Force C:\path\to\archive.zip C:\where\to\extract\to --- to extract zip
+copy <filename> path to be copied   --- copy file from one to another path
